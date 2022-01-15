@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ninjary is great data driven development
 Use the left arrow to go back!
